@@ -1,6 +1,6 @@
 # Projects/Projetos-freecodecamp
 
-Projects to train my C skills. I've created several games and small programs without the help of tutorials to test my abilities. The list of ideas I followed from freeCodeCamp is: 
+Projects to train my Python skills. I've created several games and small programs without the help of tutorials to test my abilities. The list of ideas I followed from freeCodeCamp is: 
 1 - Guess the number 
 2 - Word counter 
 3 - Acronym generator 
